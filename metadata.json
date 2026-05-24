@@ -1,0 +1,10 @@
+{
+  "name": "SnipeDrop",
+  "description": "Real-time thrift drop and jastip slot platform focusing on fast-paced competition, one-click sniper ordering, and radar alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
